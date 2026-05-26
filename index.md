@@ -36,9 +36,13 @@ The workshop addresses statistical, philosophical, and meta-scientific issues of
 | Notification of acceptance | TBA |
 | Workshop | 2027 |
 
+## Stay Updated
+
+Sign up for our [mailing list](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05aZxUG5f7nZHklQvxNAfLhpUQkZJNDRBMllTTE02QUxWSTRaN1BIQUE2NC4u) to receive updates on the program, registration, and other announcements.
+
 ## Registration
 
-Registration details will be announced in due course. The workshop has limited capacity — sign up for updates by contacting the organizers.
+Registration details will be announced in due course. The workshop has limited capacity.
 
 ---
 

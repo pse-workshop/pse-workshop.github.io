@@ -7,11 +7,16 @@ nav_order: 4
 
 # Organizers
 
-The organizing committee for PSE9 (2027) will be announced here.
+## PSE9 Organizing Committee
+
+- Johanna Einsiedler — University of Basel
+- Peder Isager — Oslo New University College
+- Veronika Cheplygina — IT University of Copenhagen
+- Attila Simkó — Umeå University, Sweden
+
+For questions or inquiries, please contact the organizing committee via the mailing list sign-up on the [home page](/).
 
 ---
-
-For questions or inquiries, please reach out via the contact information provided when the committee is announced.
 
 ## Previous Organizing Committees
 
