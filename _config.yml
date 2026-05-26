@@ -2,13 +2,11 @@ title: Perspectives on Scientific Error 2027
 description: >-
   The 9th Workshop on Perspectives on Scientific Error — addressing statistical,
   philosophical, and meta-scientific issues of scientific error.
-url: "https://pse.github.io"
-baseurl: ""
+url: "https://attilasimko.github.io"
+baseurl: "/pse.github.io"
 
 theme: minima
 
-minima:
-  skin: classic
 
 header_pages:
   - index.md
