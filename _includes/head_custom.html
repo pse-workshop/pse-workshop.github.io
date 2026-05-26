@@ -1,23 +1,16 @@
 <style>
-  /* Accent color — replaces default purple throughout */
+  /* Accent color */
   :root {
     --link-color: #3a7d6b;
     --sidebar-color: #f7f5f2;
-    --nav-width: 200px;
   }
 
-  /* Sidebar width */
+  /* Sidebar background only — no width override */
   .side-bar {
-    width: 200px !important;
     background-color: #f7f5f2;
   }
 
-  @media (min-width: 66.5rem) {
-    .main { margin-left: 200px !important; }
-    .side-bar { width: 200px !important; }
-  }
-
-  /* Link color */
+  /* Link colors */
   a { color: #3a7d6b; }
   a:visited { color: #2d6357; }
   a:hover { color: #2d6357; }
@@ -29,7 +22,7 @@
     color: #3a7d6b;
   }
 
-  /* Site title — larger and more prominent */
+  /* Site title */
   .site-title {
     color: #3a7d6b !important;
     font-size: 1.25rem !important;
@@ -43,5 +36,15 @@
     color: #3a7d6b;
     border-radius: 4px;
     padding: 0.2rem 0.6rem;
+  }
+
+  /* Full-width content */
+  .main-content-wrap {
+    max-width: 100% !important;
+  }
+
+  /* Remove "This site uses Just the Docs" — CSS fallback */
+  .site-footer p + p {
+    display: none;
   }
 </style>
