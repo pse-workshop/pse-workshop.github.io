@@ -14,7 +14,7 @@ permalink: /2027/
 
 ---
 
-The *Perspectives on Scientific Error* workshop series brings together researchers from across disciplines to examine the nature, causes, and consequences of error in science — and what can be done about it. PSE9 will be the ninth edition, held annually since 2017 across institutions in Europe and beyond.
+The *Perspectives on Scientific Error* workshop series brings together researchers from across disciplines to examine the nature, causes, and consequences of error in science — and what can be done about it. PSE9 will be the ninth edition, held annually since 2017 across institutions.
 
 ## Stay Updated
 
